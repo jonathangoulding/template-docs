@@ -4,7 +4,6 @@ sidebar: auto
 
 # Styleguide
 
-
 ## Testing
 
 ::: details
@@ -59,9 +58,7 @@ describe('test', () => {
 });
 ```
 
-
-
-### Integration
+### System
 
 ::: danger
 Only test the system from the public facing api
@@ -82,5 +79,3 @@ describe('test', () => {
     });
 });
 ```
-
-

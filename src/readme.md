@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: Search
-tagline: Use keywords such as Unit or Test
+heroText: Project Documentation
+tagline: Use keywords such as Unit or Test to find the relevant documentations
 ---
 
 <center>

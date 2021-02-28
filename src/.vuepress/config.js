@@ -1,4 +1,5 @@
 module.exports = {
+  base: "/template-docs/",
   title: "Docs Template",
   themeConfig: {
     nav: [
@@ -6,7 +7,8 @@ module.exports = {
         text: "Docs",
         ariaLabel: "Docs Menu",
         items: [
-          { text: "StyleGuide", link: "/style-guide" },
+          { text: "Styleguide", link: "/styleguide/" },
+          { text: "Testing", link: "/testing/" },
         ],
       },
     ],
