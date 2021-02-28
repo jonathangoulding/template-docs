@@ -1,0 +1,27 @@
+{
+  "name": "template-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathangoulding/template-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathangoulding/template-docs/issues"
+  },
+  "homepage": "https://github.com/jonathangoulding/template-docs#readme",
+  "dependencies": {
+    "vuepress": "1.8.2"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-search": "1.8.2"
+  }
+}
