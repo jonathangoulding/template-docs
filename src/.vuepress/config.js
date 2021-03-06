@@ -1,5 +1,5 @@
 module.exports = {
-  base: "/template-docs/",
+  base: "/vuepress-docs-example/",
   title: "Docs Template",
   themeConfig: {
     nav: [
